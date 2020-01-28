@@ -1,0 +1,28 @@
+Keep On Running!
+    Keep on running is a different type of endless runner where you are trying to outrun the storm and you survive as long as you can fighting enemies and getting powerups along the way.
+
+Idea
+    You run to the right and there is lots of gold to collect, enemies to fight. Generally there is a fair bit of stuff to collect but there is also a big blue storm chasing you causing you to need to prioritize things and leave other things behind. As you get further ahead of the storm you will have more time to collect stuff in specific areas. If you are not fast enough and caught in the storm you slowly will lose life until you lose all your HP and die.
+
+
+Power ups
+Short Term - for the rest of run
+	Speed Up
+	Defence Up
+	Attack up
+	Different weapons 
+	DOT from storm decreased
+Long Term - for all future runs
+	Rechargeable invulnerability from storm
+
+
+
+Storm
+	Moves faster the longer you go
+	Damages only player when in blue
+	8% base health DOT?
+	More damage longer you go
+
+
+
+
